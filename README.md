@@ -1,4 +1,4 @@
-# myOfflineAi - Multimodal Chat Console
+# myOfflineAi - ChatConsole
 
 <br>
 
