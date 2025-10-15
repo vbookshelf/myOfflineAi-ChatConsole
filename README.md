@@ -9,4 +9,4 @@ A transparent, offline-first and privacy-first AI console where you can talk, ty
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
-<p>MyOfflineAi-ChatConsole</p>
+<p>myOfflineAi-ChatConsole</p>
