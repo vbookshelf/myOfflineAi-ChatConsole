@@ -1,4 +1,6 @@
 # myOfflineAi - ChatConsole
+> 
+> Prototype - For testing, education and inspiration
 
 <br>
 
@@ -12,3 +14,28 @@ Ideal for privacy concious users and enthusiasts who want to experiment with Oll
 
 <img src="images/image1.png" alt="App screenshot" height="500">
 <p>myOfflineAi-ChatConsole</p>
+
+
+
+<br>
+
+## App Family - Offline-First, Privacy-First, Transparent
+
+- myOfflineAi-PrivacyFirst<br>(Maximum security. No chat history is saved.)<br>
+  https://github.com/vbookshelf/myOfflineAi-PrivacyFirst<br>
+- myOfflineAi-ChatHistory<br>(Saves chats to a local file you control.)<br>
+  https://github.com/vbookshelf/myOfflineAi-ChatHistory<br>
+- Chat-Image-Marker<br>(A simple, offline tool for marking up images.)<br>
+  https://github.com/vbookshelf/Chat-Image-Marker<br>
+- myOfflineAi-VoiceAssistant<br>(An offline full-featured Ai voice assistant.)<br>
+  https://github.com/vbookshelf/myOfflineAi-VoiceAssistant<br>
+-  myOfflineAi-ChatConsole<br>(Desktop multimodal chat console that supports both text chat and voice chat.)<br>
+  https://github.com/vbookshelf/myOfflineAi-ChatConsole
+
+<br>
+
+## Revision History
+
+Version 1.0<br>
+xx-Oct-2025<br>
+Prototype. Released for testing and education.
