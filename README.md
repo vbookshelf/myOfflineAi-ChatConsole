@@ -23,7 +23,7 @@ Ideal for privacy concious users and enthusiasts who want to experiment with Oll
 
 In this section you will do the following:
 - Install the Ollama desktop app
-- Download a small 250MB text-only Ollama model
+- Download an Ollama model
 - Install the UV Python package manager
 - Install ffmeg
 - Start the myOfflineAi app by double clicking a file
