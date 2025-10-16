@@ -10,6 +10,8 @@ Ideal for privacy concious users and enthusiasts who want to experiment with Oll
 
 The app supports math notation and code rendering making it ideal for use as an offline tutor or for offline coding practice. There's also a webcam photo feature that allows for homework problems, hand drawn diagrams and other info to be quickly photographed and attached to the chat - just hold the page in front of the webcam and press a button to take a photo.
 
+You can also create specialized multimodal Ai tools for summarization, translation, information extraction, and many more uses.
+
 [ Project in progress... ]
 
 <br>
