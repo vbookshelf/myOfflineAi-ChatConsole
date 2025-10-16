@@ -13,7 +13,12 @@ Ideal for privacy concious users and enthusiasts who want to experiment with Oll
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
-<p>myOfflineAi-ChatConsole</p>
+<p>myOfflineAi App - UI</p>
+
+<br>
+
+<img src="images/image2.png" alt="App screenshot" height="500">
+<p>myOfflineAi App - Model parameters</p>
 
 <br>
 
