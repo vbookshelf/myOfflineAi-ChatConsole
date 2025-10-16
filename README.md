@@ -26,10 +26,10 @@ You can create specialized multimodal Ai tools for summarization, translation, i
 
 <br>
 
-<br>
-
 <img src="images/image3.png" alt="App screenshot" height="500">
 <p>Supports math notation and code rendering</p>
+
+<br>
 
 ## How to Install and Run
 
