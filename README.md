@@ -15,6 +15,32 @@ Ideal for privacy concious users and enthusiasts who want to experiment with Oll
 <img src="images/image1.png" alt="App screenshot" height="500">
 <p>myOfflineAi-ChatConsole</p>
 
+<br>
+
+## How to Install and Run
+
+<br>
+
+In this section you will do the following:
+- Install the Ollama desktop app
+- Download a small 250MB text-only Ollama model
+- Install the UV Python package manager
+- Install ffmeg
+- Start the myOfflineAi app by double clicking a file
+
+Notes:<br>
+- I tested the installation process on MacOS. Although I've included instructions for Windows, I haven't tested on Windows.
+- After setup, you only need to double-click a file to launch the app.
+
+System Requirements:
+- Computer: Apple Silicon Mac (M-series) with minimum 16GB RAM - or equivalent
+- Free disk space: approx. 10 GB
+
+Recommended Ollama Models:
+- gemma3:4b
+- gemma3:12b
+
+<br>
 
 
 <br>
