@@ -17,10 +17,10 @@ You can create specialized multimodal Ai tools for summarization, translation, i
 
 ### Key innovations
 
-- Single-file flask architecture
+- Single-file architecture
 - Double-click to run
 
-The innovations are not in the creation of new technologies, but in the unique combination and application of existing ones to create a smooth offline user experience and to take adavantage of the speed and power of "Ai-as-a-developer."
+The innovations are not in the creation of new technologies, but in the unique combination and application of existing ones to create a multimodal offline user experience and to take advantage of the speed and power of "Ai-as-a-developer."
 
 
 <br>
