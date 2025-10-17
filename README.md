@@ -17,8 +17,8 @@ You can create specialized multimodal Ai tools for summarization, translation, i
 
 ### Key innovations
 
-- Single-file architecture
-- Double-click to run
+- Single-file architecture (Low barrier to tinkering)
+- Double-click to run (More accessible to non-programmers)
 
 The innovations are not in the creation of new technologies, but in the unique combination and application of existing ones to create a multimodal offline user experience and to take advantage of the speed and power of "Ai-as-a-developer."
 
