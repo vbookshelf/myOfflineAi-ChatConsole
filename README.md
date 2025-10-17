@@ -240,5 +240,5 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 ## Revision History
 
 Version 1.0<br>
-xx-Oct-2025<br>
+17-Oct-2025<br>
 Prototype. Released for testing and education.
