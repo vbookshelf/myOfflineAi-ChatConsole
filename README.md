@@ -12,7 +12,7 @@ After the initial setup there's no need to use the command line - simply double 
 
 The app supports math notation and code rendering making it ideal for use as an tutor or for offline coding practice. There's also a webcam photo feature that allows for homework problems, hand drawn diagrams and other info to be quickly photographed and attached to the chat - just hold the page in front of the webcam and press a button to take a photo.
 
-You can create specialized multimodal Ai tools for summarization, translation, information extraction, and many more uses. Over time you can build up your own toolbox. You can also easily share your tools with others by sending them copies of the agents.json file. They need to put that file into the project folder. When the page loads, the app will automatically load the tools from your agents.json file.
+You can create specialized multimodal Ai tools for summarization, translation, information extraction, and many more uses. Over time you can build up your own toolbox. You can also easily share your tools with others by sending them copies of the agents.json file. They need to put that file into the project folder. When the page loads, the app will automatically load the tools from the agents.json file.
 
 
 ### Key innovations
