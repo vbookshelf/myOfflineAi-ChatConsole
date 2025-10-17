@@ -202,6 +202,11 @@ Quick Troubleshooting
 - If the app doesn't start, make sure Ollama is running (look for its icon in your system tray/menu bar)
 - If you see "connection refused", restart Ollama
 - Make sure you've downloaded at least one model in Ollama before using the app
+- For the voice (TTS) to work Kokoro needs two files: kokoro-v1.0.onnx, and voices-v1.0.bin
+  These files are auto downloaded during the setup process.
+However, if the voice is not working then please download these files manually and place them in the project folder:
+kokoro-v1.0.onnx: https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+voices-v1.0.bin: https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
 
 
 ```
