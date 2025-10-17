@@ -20,6 +20,9 @@ You can create specialized multimodal Ai tools for summarization, translation, i
 - Single-file flask architecture
 - Double-click to run
 
+The innovations are not in the creation of new technologies, but in the unique combination and application of existing ones to create a smooth offline user experience and to take adavantage of the speed and power of "Ai-as-a-developer."
+
+
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
