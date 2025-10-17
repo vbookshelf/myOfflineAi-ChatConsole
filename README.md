@@ -12,7 +12,6 @@ The app supports math notation and code rendering making it ideal for use as an 
 
 You can create specialized multimodal Ai tools for summarization, translation, information extraction, and many more uses. Over time you can build up your own toolbox. You can also easily share your tools with others by sending them copies of the agents.json file. They need to put that file into the project folder and the app will load the tools.
 
-[ Project in progress... ]
 
 <br>
 
