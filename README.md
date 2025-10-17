@@ -6,7 +6,9 @@
 
 A transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). 
 
-Ideal for privacy concious users and enthusiasts who want to experiment with Ollama Ai models. The single file architecture makes it easy to use Ai to customize the app or to fix bugs. Simply give Gemini 2.5 Pro the app.py file and tell it what new features you want or what bugs you want fixed. After the initial setup there's no need to use the command line - simply double click a file to run the app.
+Ideal for privacy concious users and enthusiasts who want to experiment with Ollama Ai models. The single file architecture makes it easy to use Ai to customize the app or to fix bugs. Simply give Gemini 2.5 Pro the app.py file and tell it what new features you want or what bugs you want fixed. 
+
+After the initial setup there's no need to use the command line - simply double click a file to run the app.
 
 The app supports math notation and code rendering making it ideal for use as an offline tutor or for offline coding practice. There's also a webcam photo feature that allows for homework problems, hand drawn diagrams and other info to be quickly photographed and attached to the chat - just hold the page in front of the webcam and press a button to take a photo.
 
