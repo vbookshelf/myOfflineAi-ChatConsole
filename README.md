@@ -234,6 +234,7 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 - When setting up a tool (specialized assistant) that uses voice, it helps to tell it (in the system message) not to use markdown - or else the Ai will speak the markdown symbols out loud.
 - I found that the gemma3:4b and gemma3:12b models work very well. They are fast, have a high level of intelligence and they can handle both text and images.
 - This app uses a single file architecture, meaning that all the code (HTML, CSS, JS and Python) is in one file. Ai can therefore see the entire app logic at once. I highly recommend that you try using Gemini 2.5 Pro to modify the code to add new features or make changes to this app. Simply give the app.py file to Gemini 2.5 Pro (not Flash) and tell it what changes you want. You'll be surprised how well this process works. In the past, if I wanted to build a feature I would have to spend a lot of time researching, watching YouTube videos, doing courses and then trying to fix bugs - now I just sit back and drink coffee while Ai does the work.
+- It's possible to speed up the audio response by implementing sentence-by-sentence TTS with websockets. I built a websockets version of this app. The audio response is much faster. However, using websockets can make the app unstable under some conditions. Therefore, to ensure reliability and robustness, I decided not to implement it in this published version.
 
 <br>
 
