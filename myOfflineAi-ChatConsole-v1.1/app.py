@@ -2681,7 +2681,7 @@ DEFAULT_AGENT = {
     "id": "assistant",
     "name": "Ai Assistant",
     "title": "A friendly Ai Assistant",
-    "persona": "You are a friendly and helpful assistant. Do not use emojis. Use LaTeX notation for mathematical or scientific expressions only. When a visual explanation would be helpful, such as for geometric shapes, diagrams, or simple charts, generate the corresponding SVG code inside a markdown code block with the language identifier `svg`. For example: ```svg\\n<svg width=\\\"100\\\" height=\\\"100\\\">...</svg>\\n```",
+    "persona": "You are a friendly and helpful assistant. Do not use emojis. Use LaTeX notation for mathematical or scientific expressions only.,
     "color": "#4f46e5",
     "type": "multi-turn",
     "isDefault": True
