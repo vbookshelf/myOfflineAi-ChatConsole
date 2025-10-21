@@ -106,8 +106,8 @@ scoop install ffmpeg
 
 1. On GitHub click on "<> Code". The select "Download Zip"
 2. Download the project folder and unzip it.
-3. Inside you will find a folder named: myOfflineAi-ChatConsole-v1.0
-4. Place myOfflineAi-ChatConsole-v1.0 on your desktop.
+3. Inside you will find a folder named: myOfflineAi-ChatConsole-v1.1
+4. Place myOfflineAi-ChatConsole-v1.1 on your desktop.
 
 
 5. Initial Setup
@@ -128,9 +128,9 @@ wget -qO- https://astral.sh/uv/install.sh | sh
 4. Type 'cd ' in the terminal (with a space after cd)
 5. Drag the folder into the Terminal window. A file path will appear.
 6. Press Enter
-If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v1.0 folder:
+If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v1.1 folder:
 cd Desktop
-cd myOfflineAi-ChatConsole-v1.0
+cd myOfflineAi-ChatConsole-v1.1
 
 7. Paste this command into the terminal:
 
@@ -157,7 +157,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 6. Wait for "uv installed successfully" or similar message
 
 7. Close the window and open a new one for the changes to take effect
-8. Navigate to the myOfflineAi-ChatConsole-v1.0 folder that's on your desktop
+8. Navigate to the myOfflineAi-ChatConsole-v1.1 folder that's on your desktop
 9. Double-click: start-windows-app.bat
 
 If Windows shows a security warning:
@@ -254,6 +254,13 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 
 ## Revision History
 
+Version 1.1<br>
+21-Oct-2025<br>
+Enabled flash attention and context caching to speed up inference.
+
 Version 1.0<br>
 17-Oct-2025<br>
 Prototype. Released for testing and education.
+
+<br>
+
