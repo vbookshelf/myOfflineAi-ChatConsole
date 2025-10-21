@@ -256,7 +256,7 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 
 Version 1.1<br>
 21-Oct-2025<br>
-Enabled flash attention and context caching to speed up inference.
+Enabled flash attention and q_8 context caching to speed up inference.
 
 Version 1.0<br>
 17-Oct-2025<br>
