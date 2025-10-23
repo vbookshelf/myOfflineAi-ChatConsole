@@ -51,7 +51,7 @@ This application is built for professionals, students, and hobbyists — anyone 
 - <strong>Developers:</strong> Analyze and debug proprietary code, generate unit tests, and document APIs in a secure, air-gapped environment.
 - <strong>Legal & Medical Professionals:</strong> Interrogate sensitive client contracts, case files, or de-identified medical notes with the confidence that confidential data remains local (HIPAA-friendly).
 - <strong>Researchers & Academics:</strong> Summarize and analyze research papers, pre-publication data, and literature without risking intellectual property leaks.
-- <strong>Hobbyists:</strong> Granular controls for experimenting with self-hosted text and voice AI. The single-file code setup makes the app easy to customize. Simply give the app.py file to Gemini 2.5 Pro - ask it to make design changes, then run the app.
+- <strong>Hobbyists:</strong> Granular controls for experimenting with self-hosted text and voice AI. The single-file code setup makes the app easy to customize. The app design is optimized for Ai-driven self modification.
 
 <br>
 
