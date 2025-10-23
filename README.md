@@ -41,6 +41,20 @@ The innovations are not in the creation of new technologies, but in the unique c
 
 <br>
 
+## Who is this for?
+
+<br>
+
+This application is built for professionals, students, and hobbyists — anyone who wants to leverage the power of local LLMs without compromising on privacy or functionality.
+
+- <strong>Students & Lifelong Learners:</strong> A private, 24/7 AI tutor that works completely offline. Get step-by-step homework help, explain complex concepts in everyday language, or analyze textbook pages. It's a powerful learning tool that promotes educational equity by removing the need for a constant internet connection.
+- <strong>Developers:</strong> Analyze and debug proprietary code, generate unit tests, and document APIs in a secure, air-gapped environment.
+- <strong>Legal & Medical Professionals:</strong> Interrogate sensitive client contracts, case files, or de-identified medical notes with the confidence that confidential data remains local (HIPAA-friendly).
+- <strong>Researchers & Academics:</strong> Summarize and analyze research papers, pre-publication data, and literature without risking intellectual property leaks.
+- <strong>Hobbyists:</strong> Granular controls for experimenting with self-hosted text and voice AI. The single-file code setup makes the app easy to customize. Simply give the app.py file to Gemini 2.5 Pro - ask it to make design changes, then run the app.
+
+<br>
+
 ## How to Install and Run
 
 <br>
