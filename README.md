@@ -4,7 +4,7 @@
 
 <br>
 
-A transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). 
+A transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). This is not just a simple chat interface - it's a customizable AI workspace.
 
 Ideal for privacy concious users and enthusiasts who want to experiment with Ollama Ai models. The single file architecture makes it easy to use Ai to customize the app or to fix bugs. Simply give Gemini 2.5 Pro the app.py file and tell it what new features you want or what bugs you want fixed. 
 
