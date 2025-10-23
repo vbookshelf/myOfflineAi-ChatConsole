@@ -1,5 +1,4 @@
 # myOfflineAi - ChatConsole
-<strong>A Secure, 100% Offline, Feature-Rich Text and Voice Chat UI for Local LLMs via Ollama.</strong>
 > 
 > Prototype - For testing, education and inspiration
 
