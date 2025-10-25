@@ -1,4 +1,5 @@
 # myOfflineAi - ChatConsole
+<strong>A truly offline text and voice Ai chat console</strong>
 > 
 > Prototype - For testing, education and inspiration
 
