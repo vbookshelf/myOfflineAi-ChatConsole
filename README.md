@@ -55,6 +55,11 @@ The power of myOfflineAi-ChatConsole comes from its unique combination of existi
 
 <br>
 
+<img src="images/image4.png" alt="App screenshot" height="500">
+<p>Focus mode</p>
+
+<br>
+
 ## Who is this for?
 
 <br>
