@@ -23,14 +23,19 @@ A transparent, offline-first and privacy-first multimodal Ai console where you c
 - <strong>Supports math notation and code rendering:</strong> Ideal for use as as Ai tutor.
 - <strong>Single-file architecture:</strong> Code is easy to audit because HTML, CSS, JS and Python are all in one file. Compliance thinking is built into the design.
 
+<br>
 
+## Key Innovations
 
-### Key innovations
+<br>
 
-- Single-file architecture (Low barrier to tinkering)
-- Double-click to run (More accessible to non-programmers)
+The power of myOfflineAi-ChatConsole comes from its unique combination of existing technologies, applied with a focus on privacy, performance, and accessibility.
 
-The innovations are not in the creation of new technologies, but in the unique combination and application of existing ones to create a multimodal offline user experience and to take advantage of the speed and power of "Ai-as-a-developer."
+- <strong>Self-Contained Single-File Architecture:</strong> The entire application logic is contained in a single file. This design offers two major benefits: it provides a low barrier for tinkering and modification, and more importantly, it makes the codebase easy to audit for security and privacy.
+- <strong>"Double-Click to Run" Accessibility:</strong> Through simple .bat (Windows) and .command (macOS) scripts, the application can be launched without needing to use the command line, making it accessible to non-programmers and enthusiasts alike.
+- <strong>High-Performance Hybrid Network:</strong> The app intelligently uses both HTTP and WebSockets. HTTP provides robust handling for file uploads, while WebSockets enable a real-time, low-latency connection for streaming AI responses and audio.
+- <strong>Instant Audio with Sentence-by-Sentence TTS:</strong> Instead of waiting for the AI to generate its full response, text-to-speech audio begins playing sentence by sentence, creating a much more fluid and natural conversational experience.
+- <strong>Ephemeral Data Processing:</strong> Privacy is paramount. User-uploaded images and PDFs are processed entirely in-memory and are never permanently saved to your disk.
 
 
 <br>
