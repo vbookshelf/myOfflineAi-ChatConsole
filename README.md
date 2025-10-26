@@ -270,6 +270,10 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 
 ## Revision History
 
+Version 2.0<br>
+26-Oct-2025<br>
+Implemented a more robust hybrid network architecture - HTTP and WebSockets.
+
 Version 1.1<br>
 21-Oct-2025<br>
 Enabled flash attention and q_8 context caching to speed up inference.
