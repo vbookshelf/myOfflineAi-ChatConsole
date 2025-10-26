@@ -20,7 +20,7 @@ A transparent, offline-first and privacy-first multimodal Ai console where you c
 - <strong>Advanced Model Controls:</strong> Tune the performance of models with adjustable parameters like temperature, context size, and top_p.
 - <strong>Webcam Photos:</strong> Use the webcam to send photos of hand drawn diagrams and homework problems directly to the chat.
 - <strong>Chat History:</strong> All conversations are saved in a portable file that can be moved to a secure location or deleted.
-- <strong>Supports math notation and code rendering:</strong> Ideal for use as as Ai tutor.
+- <strong>Supports math notation and code rendering:</strong> Ideal for use as an Ai tutor.
 - <strong>Single-file architecture:</strong> Code is easy to audit because HTML, CSS, JS and Python are all in one file. Compliance thinking is built into the design.
 
 <br>
