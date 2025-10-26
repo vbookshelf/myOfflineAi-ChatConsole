@@ -46,7 +46,7 @@ The power of myOfflineAi-ChatConsole comes from its unique combination of existi
 <br>
 
 <img src="images/image2.png" alt="App screenshot" height="500">
-<p>myOfflineAi App - Model parameters</p>
+<p>Model parameters</p>
 
 <br>
 
