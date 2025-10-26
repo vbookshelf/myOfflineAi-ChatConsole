@@ -256,6 +256,42 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 
 <br>
 
+## What Files are Created during operation?
+
+<br>
+
+The application is designed to be self-contained and stores all its configuration and data in the same directory it is run from.
+Persistent Configuration and Data Files
+These files store your settings and history and remain on your disk between sessions.
+
+1. agents.json<br>
+- <strong>Purpose:</strong> This is a crucial file that stores all the custom "AI Tools" (or agents) that you create. It saves their names, titles, system personas, conversation type (single-turn/multi-turn), and any model settings you've specifically configured for them.<br>
+- <strong>Lifecycle:</strong> It is automatically created on the first run if it doesn't exist, pre-populated with the default "Ai Assistant." It is read on startup and written to whenever you create, edit, reorder, or delete an AI Tool.
+
+2. conversations.json.<br>
+- <strong> Purpose:</strong> This file saves your complete chat history. Each conversation is stored as a separate entry, linked to the specific AI Tool you were using at the time..<br>
+- <strong> Lifecycle:</strong> This file is created after your first conversation is completed. It is updated at the end of every chat session to save the new messages.
+
+3. user_settings.json.<br>
+- <strong>Purpose:</strong> This file stores your global settings. This includes the default model parameters (temperature, context size, etc.), your voice preferences (language, voice, speed), and other UI-related settings like the PDF page limit. These are the settings that apply to the default "Ai Assistant" and serve as the base for new AI Tools..<br>
+- <strong>Lifecycle:</strong> It is created on the first run if it doesn't exist, populated with the application's default values. It is updated any time you change these settings in the sidebar.
+
+3. last_model.txt.<br>
+- <strong>Purpose:</strong> A very simple text file that contains only the name of the last Ollama model you selected from the dropdown menu..<br>
+- <strong>Lifecycle:</strong> It is created or overwritten every time you select a different model. This ensures the application remembers your preferred model for your next session.
+
+### Temporary Files
+This category includes files that are created for a specific, brief task and are deleted automatically.
+
+temp_recording.wav.<br>
+- <strong>Purpose:</strong> To temporarily store the raw audio data from your microphone when using the speech-to-text feature..<br>
+- <strong>Lifecycle:</strong> This file is ephemeral. It is created the moment you stop speaking, is immediately fed to the Whisper model for transcription, and is then instantly and automatically deleted. It only exists on your disk for a fraction of a second during the transcription process.
+
+### What is Not Saved to Disk
+Uploaded Images and PDFs: All user-uploaded files (.jpg, .png, .pdf, etc.) are processed entirely in-memory. They are converted to a Base64 format, sent to the model, and are never written to or saved on your hard drive.
+
+<br>
+
 ## Notes
 
 - When using the voice chat it helps to wear a headset or use earphones with a mic. The voice detection system is quite simple so it won't work well if there's alot of background noise.
