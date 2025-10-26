@@ -296,14 +296,26 @@ Uploaded Images and PDFs: All user-uploaded files (.jpg, .png, .pdf, etc.) are p
 
 <br>
 
+## Technologies Used
+
+<strong>Backend:</strong> Flask (HTTP), Flask-SocketIO (WebSockets), Ollama<br>
+<strong>Frontend:</strong> HTML, Tailwind CSS, JavaScript<br>
+<strong>File Processing:</strong> PyMuPDF (for PDFs)<br>
+<strong>Speech-to-Text:</strong> OpenAI Whisper<br>
+<strong>Text-to-Speech:</strong> Kokoro TTS
+
+
+<br>
+
 ## Notes
 
 - When using the voice chat it helps to wear a headset or use earphones with a mic. The voice detection system is quite simple so it won't work well if there's alot of background noise.
-- The app streams text before speaking that text out loud. Streaming text has has a latency masking effect - it makes the delay feel shorter than it actually is.
 - When setting up a tool (specialized assistant) that uses voice, it helps to tell it (in the system message) not to use markdown - or else the Ai will speak the markdown symbols out loud.
 - I found that the gemma3:4b and gemma3:12b models work very well. They are fast, have a high level of intelligence and they can handle both text and images.
-- This app uses a single file architecture, meaning that all the code (HTML, CSS, JS and Python) is in one file. Ai can therefore see the entire app logic at once. I highly recommend that you try using Gemini 2.5 Pro to modify the code to add new features or make changes to this app. Simply give the app.py file to Gemini 2.5 Pro (not Flash) and tell it what changes you want. You'll be surprised how well this process works. In the past, if I wanted to build a feature I would have to spend a lot of time researching, watching YouTube videos, doing courses and then trying to fix bugs - now I just sit back and drink coffee while Ai does the work.
-- It's possible to speed up the audio response by implementing sentence-by-sentence TTS with websockets. I built a websockets version of this app for testing. The audio response is much faster. However, using websockets can make this app unstable - because base64 images are also being sent via websockets. A better solution would be to use a hybrid architecture - http for images and websockets for the text and audio. Also I learned that any conversion to base64 should be done on the server and not by the client - in this way there's no large base64 data passing between the client and the server, slowing down the app.
+- Whisper is an LLM, and it can hallucinate. It sometimes generates random text like "Thank you for watching!". This text then gets converted in to speech.
+- Not all parameters are supported by all models. I found that Qwen3 Ollama models would not work if a repeat_penalty parameter was passed to the model. To make the app more robust I've only used parameters that are likely to be supported by the vast majority of models - temperature, context size, top_p.
+- Small quantized local models are not yet trustworthy enough to be used for mission critical tasks. They are good for tasks that don't require precise answers like brainstorming and creative writing, or for tasks where a user can quickly check the accuracy of the output.
+
 
 <br>
 
