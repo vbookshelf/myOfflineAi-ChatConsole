@@ -29,7 +29,7 @@ A transparent, offline-first and privacy-first multimodal Ai console where you c
 
 <br>
 
-The innovation is not in creating new technologies but in combining and optimizing existing technologoes:
+The innovation is not in creating new technologies but in combining and optimizing existing technologies:
 
 - <strong>Self-Contained Single-File Architecture:</strong> The entire application logic is contained in a single file. This design offers two major benefits: it provides a low barrier for tinkering and Ai modification, and more importantly, it makes the codebase easy to audit for security and privacy.
 - <strong>"Double-Click to Run" Accessibility:</strong> Through simple .bat (Windows) and .command (macOS) scripts, the application can be launched without needing to use the command line, making it accessible to non-programmers and enthusiasts alike.
