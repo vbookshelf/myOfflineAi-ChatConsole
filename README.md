@@ -272,7 +272,9 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 
 Version 2.0<br>
 26-Oct-2025<br>
-Implemented a more robust hybrid network architecture - HTTP and WebSockets.
+Implemented a more robust hybrid network architecture - HTTP and WebSockets.<br>
+Fixed error with Qwen models.<br>
+Removed model parameters that are not supported by all models.
 
 Version 1.1<br>
 21-Oct-2025<br>
