@@ -14,7 +14,7 @@ A transparent, offline-first and privacy-first multimodal Ai console where you c
 <br>
 
 - <strong>100% Offline and Private:</strong> Your conversations and data never leave your local machine.
-- <strong>Multimodal:</strong> Chat using text and images (supports JPG, PNG, GIF, WebP, and multi-page PDFs).
+- <strong>Multimodal:</strong> Chat using text and images (supports JPG, PNG, WebP, and multi-page PDFs).
 - <strong>Voice Chat:</strong> Have a conversation with your Ai.
 - <strong>Create Ai Tools:</strong> Create specialized assistants with unique personas, tailored for specific tasks (e.g. code generation, text summarization, creative writing).
 - <strong>Advanced Model Controls:</strong> Tune the performance of models with adjustable parameters like temperature, context size, and top_p.
