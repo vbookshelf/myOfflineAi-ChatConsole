@@ -3,9 +3,13 @@
 > 
 > Prototype - For testing, education and inspiration
 
+YouTube Video:<br>
+myOfflineAi - Local Ai for those who are Data Privacy Paranoid<br>
+https://www.youtube.com/watch?v=LOndd7MpdCs
+
 <br>
 
-A transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). This is not just a simple chat interface - it's a customizable AI workspace.
+The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). This is not just a simple chat interface - it's a customizable AI workspace.
 
 <br>
 
