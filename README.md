@@ -35,7 +35,7 @@ The innovation is not in creating new technologies but in combining and optimizi
 - <strong>"Double-Click to Run" Accessibility:</strong> Through simple .bat (Windows) and .command (macOS) scripts, the application can be launched without needing to use the command line, making it accessible to non-programmers and enthusiasts alike.
 - <strong>High-Performance Hybrid Network:</strong> The app intelligently uses both HTTP and WebSockets. HTTP provides robust handling for file uploads, while WebSockets enable a real-time, low-latency connection for streaming AI responses and audio.
 - <strong>Instant Audio with Sentence-by-Sentence TTS:</strong> Instead of waiting for the AI to generate its full response, text-to-speech audio begins playing sentence by sentence, creating a much more fluid and natural conversational experience.
-- <strong>Ephemeral Data Processing:</strong> Privacy is paramount. User-uploaded images and PDFs are processed entirely in-memory and are never permanently saved to your disk.
+- <strong>Ephemeral Data Processing:</strong> User-uploaded images and PDFs are processed entirely in-memory and are never permanently saved to your disk.
 
 
 <br>
