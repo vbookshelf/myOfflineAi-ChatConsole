@@ -205,6 +205,7 @@ If Windows shows a security warning:
 6. Use the app
 --------------------------------------------------------------
 
+Click "Ai Assistant" in the left panel.
 Type a message. The assistant will respond with both voice and text.
 To use voice input: Click the mic icon, then speak.
 
@@ -270,7 +271,8 @@ https://github.com/vbookshelf/myOfflineAi-PrivacyFirst
 <br>
 
 The application is designed to be self-contained and stores all its configuration and data in the same directory it is run from.
-Persistent Configuration and Data Files
+
+### Persistent Configuration and Data Files
 These files store your settings and history and remain on your disk between sessions.
 
 1. agents.json<br>
