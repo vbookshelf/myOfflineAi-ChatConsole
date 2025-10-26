@@ -7,13 +7,22 @@
 
 A transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). This is not just a simple chat interface - it's a customizable AI workspace.
 
-Ideal for privacy concious users and enthusiasts who need granular control to experiment with Ollama Ai models. The single file architecture makes it easy to use Ai to customize the app or to fix bugs. Simply give Gemini 2.5 Pro the app.py file and tell it what new features you want or what bugs you want fixed. 
+<br>
 
-After the initial setup there's no need to use the command line - simply double click a file to run the app.
+## Key Features
 
-The app supports math notation and code rendering making it ideal for use as an tutor or for offline coding practice. There's also a webcam photo feature that allows for homework problems, hand drawn diagrams and other info to be quickly photographed and attached to the chat - just hold the page in front of the webcam and press a button to take a photo.
+<br>
 
-You can create specialized multimodal Ai tools for summarization, translation, information extraction, and many more uses. Over time you can build up your own toolbox. You can also easily share your tools with others by sending them copies of the agents.json file. They need to put that file into the project folder. When the page loads, the app will automatically load the tools from the agents.json file.
+- <strong>100% Offline and Private:</strong> Your conversations and data never leave your local machine.
+- <strong>Multimodal:</strong> Chat using text and images (supports JPG, PNG, GIF, WebP, and multi-page PDFs).
+- <strong>Voice Chat:</strong> Have a conversation with your Ai.
+- <strong>Create Ai Tools:</strong> Create specialized assistants with unique personas, tailored for specific tasks (e.g. code generation, text summarization, creative writing).
+- <strong>Advanced Model Controls:</strong> Tune the performance of models with adjustable parameters like temperature, context size, and top_p.
+- <strong>Webcam Photos:</strong> Use the webcam to send photos of hand drawn diagrams and homework problems directly to the chat.
+- <strong>Chat History:</strong> All conversations are saved in a portable file that can be moved to a secure location or deleted.
+- <strong>Supports math notation and code rendering:</strong> Ideal for use as as Ai tutor.
+- <strong>Single-file architecture:</strong> Code is easy to audit because HTML, CSS, JS and Python are all in one file. Compliance thinking is built into the design.
+
 
 
 ### Key innovations
