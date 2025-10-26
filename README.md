@@ -135,8 +135,8 @@ scoop install ffmpeg
 
 1. On GitHub click on "<> Code". The select "Download Zip"
 2. Download the project folder and unzip it.
-3. Inside you will find a folder named: myOfflineAi-ChatConsole-v1.1
-4. Place myOfflineAi-ChatConsole-v1.1 on your desktop.
+3. Inside you will find a folder named: myOfflineAi-ChatConsole-v2.0
+4. Place myOfflineAi-ChatConsole-v2.0 on your desktop.
 
 
 5. Initial Setup
@@ -157,16 +157,16 @@ wget -qO- https://astral.sh/uv/install.sh | sh
 4. Type 'cd ' in the terminal (with a space after cd)
 5. Drag the folder into the Terminal window. A file path will appear.
 6. Press Enter
-If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v1.1 folder:
+If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v2.0 folder:
 cd Desktop
-cd myOfflineAi-ChatConsole-v1.1
+cd myOfflineAi-ChatConsole-v2.0
 
 7. Paste this command into the terminal:
 
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 
 8. Press Enter
-9. Open the myOfflineAi-ChatConsole-v1.0 folder
+9. Open the myOfflineAi-ChatConsole-v2.0 folder
 10. Double-click: start-mac-app.command
 
 
@@ -186,7 +186,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 6. Wait for "uv installed successfully" or similar message
 
 7. Close the window and open a new one for the changes to take effect
-8. Navigate to the myOfflineAi-ChatConsole-v1.1 folder that's on your desktop
+8. Navigate to the myOfflineAi-ChatConsole-v2.0 folder that's on your desktop
 9. Double-click: start-windows-app.bat
 
 If Windows shows a security warning:
@@ -218,7 +218,7 @@ Any changes you make to the settings will be automatically saved.
 --------------------------------------------------------------
 
 Now that the setup is complete, in future simply Double-click a file to launch the app.
-The project folder should be placed on your desktop before the app is launched.
+The project folder must be placed on your desktop before the app is launched.
 
 Mac:
 start-mac-app.command
@@ -246,6 +246,10 @@ kokoro-v1.0.onnx: https://github.com/thewh1teagle/kokoro-onnx/releases/download/
 voices-v1.0.bin: https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
 
 
+Tips
+--------------------------------------------------------------
+- When creating agents/tools that will generate math notation, you need to tell the agent to use LaTeX when generating math notation. Please add this note to the system message: Use LaTeX notation for mathematical or scientific expressions only.
+- For best results when using your voice - use a headset or earphones with a mic. This reduces background noise. It also allows for a more relaxed chat because you won't have to constantly strain to be clearly heard by the speech to text system.
 ```
 <br>
 
