@@ -69,7 +69,7 @@ ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'pdf', 'webp', 'heic', 'avif'
 # 2. Qwen3 models will fail if a repeat_penalty parameter is set.
 # 3. To ensure robust operation, this app does not set top_k, frequency_penalty and repeat_penalty.
 
-DEFAULT_NUM_CTX = 16000
+DEFAULT_NUM_CTX = 8000
 DEFAULT_TEMPERATURE = 0.4
 DEFAULT_TOP_P = 0.95
 
