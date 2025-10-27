@@ -254,7 +254,7 @@ Quick Troubleshooting
 However, if the voice is not working then please download these files manually and place them in the project folder:
 kokoro-v1.0.onnx: https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
 voices-v1.0.bin: https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
-
+- If there text generation is working, but the voice is not working - try reducing the context size.
 
 Tips
 --------------------------------------------------------------
