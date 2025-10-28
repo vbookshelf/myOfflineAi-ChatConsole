@@ -313,7 +313,7 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 
 ## Technologies Used
 
-<strong>Backend:</strong> Flask (HTTP), Flask-SocketIO (WebSockets), Ollama<br>
+<strong>Backend:</strong> Flask (HTTP), Flask-SocketIO (WebSockets), Ollama Python<br>
 <strong>Frontend:</strong> HTML, Tailwind CSS, JavaScript<br>
 <strong>File Processing:</strong> PyMuPDF (for PDFs)<br>
 <strong>Speech-to-Text:</strong> OpenAI Whisper<br>
