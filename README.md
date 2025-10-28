@@ -348,6 +348,12 @@ Uploaded Images and PDFs: All user-uploaded files (.jpg, .png, .pdf, etc.) are p
 
 ## Revision History
 
+Version 3.0<br>
+28-Oct-2025<br>
+Changed the UI.<br>
+Added a toolbox.<br>
+Added agent profile picture feature.
+
 Version 2.0<br>
 26-Oct-2025<br>
 Implemented a more robust hybrid network architecture - HTTP and WebSockets.<br>
