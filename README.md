@@ -144,8 +144,8 @@ scoop install ffmpeg
 
 1. On GitHub click on "<> Code". The select "Download Zip"
 2. Download the project folder and unzip it.
-3. Inside you will find a folder named: myOfflineAi-ChatConsole-v2.0
-4. Place myOfflineAi-ChatConsole-v2.0 on your desktop.
+3. Inside you will find a folder named: myOfflineAi-ChatConsole-v3.0
+4. Place myOfflineAi-ChatConsole-v3.0 on your desktop.
 
 
 5. Initial Setup
@@ -166,16 +166,16 @@ wget -qO- https://astral.sh/uv/install.sh | sh
 4. Type 'cd ' in the terminal (with a space after cd)
 5. Drag the folder into the Terminal window. A file path will appear.
 6. Press Enter
-If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v2.0 folder:
+If you get an error, then type in these commands in the terminal to manually cd into myOfflineAi-ChatConsole-v3.0 folder:
 cd Desktop
-cd myOfflineAi-ChatConsole-v2.0
+cd myOfflineAi-ChatConsole-v3.0
 
 7. Paste this command into the terminal:
 
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 
 8. Press Enter
-9. Open the myOfflineAi-ChatConsole-v2.0 folder
+9. Open the myOfflineAi-ChatConsole-v3.0 folder
 10. Double-click: start-mac-app.command
 
 
@@ -195,7 +195,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 6. Wait for "uv installed successfully" or similar message
 
 7. Close the window and open a new one for the changes to take effect
-8. Navigate to the myOfflineAi-ChatConsole-v2.0 folder that's on your desktop
+8. Navigate to the myOfflineAi-ChatConsole-v3.0 folder that's on your desktop
 9. Double-click: start-windows-app.bat
 
 If Windows shows a security warning:
@@ -304,6 +304,10 @@ temp_recording.wav.<br>
 
 ### What is Not Saved to Disk
 Uploaded Images and PDFs: All user-uploaded files (.jpg, .png, .pdf, etc.) are processed entirely in-memory. They are converted to a Base64 format, sent to the model, and are never written to or saved on your hard drive.
+
+### Agent profile pictures
+The agent profile pictures that you upload are stored in a folder named agent_avatars. The profile image is deleted when an agent is deleted.
+
 
 <br>
 
