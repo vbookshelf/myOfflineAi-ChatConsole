@@ -45,12 +45,12 @@ The innovation is not in creating new technologies but in combining and optimizi
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
-<p>myOfflineAi App - UI</p>
+<p>Minimalist UI</p>
 
 <br>
 
 <img src="images/image2.png" alt="App screenshot" height="500">
-<p>Model parameters</p>
+<p>Supports images and pdf files</p>
 
 <br>
 
@@ -60,7 +60,7 @@ The innovation is not in creating new technologies but in combining and optimizi
 <br>
 
 <img src="images/image4.png" alt="App screenshot" height="500">
-<p>Focus mode</p>
+<p>Settings panel hidden</p>
 
 <br>
 
