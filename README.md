@@ -352,7 +352,7 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 
 ## Conclusion
 
-The myOfflineAi-ChatConsole project is a case study for a development workflow where a single person, with modest skills and strategic vision, can architect, build, and maintain a complex application at high velocity by treating AI as a collaborator. The current software development rules were made for a different world. In the post Ai era we need new thinking.
+The myOfflineAi-ChatConsole project is a case study for a development workflow where a single person, with modest skills and strategic vision, can architect, build, and maintain a complex application at high velocity by treating AI as a collaborator. The current software development rules were made for a different world. In the post Ai era we need new thinking. We need a new development methodology that's optimized for AI collaboration.
 
 <br>
 
