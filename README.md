@@ -17,7 +17,7 @@ This project is a case study in a new kind of development workflow — one where
 
 The traditional rules of software development were created for a different era. In the age of AI, we need a new methodology that's optimized for Human + AI collaboration. 
 
-The project uses a single-file architecture. It allows Ai to see the entire context. Having this clear picture makes it easy for Ai to refactor the code. The Ai also automatically handles any ripple effects that a change may have on the rest of the code. This enables fast iteration. The result is a robust final product.
+This project uses a single-file architecture. It allows Ai to see the entire context. Having this clear picture makes it easy for Ai to refactor the code. The Ai also automatically handles any ripple effects that a change may have on the rest of the code. This enables fast iteration. The result is a robust final product.
 
 <br>
 
