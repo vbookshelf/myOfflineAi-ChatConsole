@@ -4,7 +4,7 @@
 > Prototype - For testing, education and inspiration
 
 YouTube Video:<br>
-myOfflineAi - Local Ai for those who are Data Privacy Paranoid<br>
+myOfflineAi - A Local Text and Voice Chat Ai Console powered by Ollama, Whisper and Kokoro<br>
 https://www.youtube.com/watch?v=LOndd7MpdCs
 
 <br>
