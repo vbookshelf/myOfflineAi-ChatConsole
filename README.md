@@ -334,7 +334,7 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 
 - When using the voice chat it helps to wear a headset or use earphones with a mic. The voice detection system is quite simple so it won't work well if there's alot of background noise.
 - When setting up a tool (specialized assistant) that uses voice, it helps to tell it (in the system message) not to use markdown - or else the Ai will speak the markdown symbols out loud.
-- I found that these models work well: gemma3:4b, gemma3:12b, qwen3-vl:4b, qwen3-vl:8b. They are fast, have a high level of intelligence and they can handle both text and images.
+- I found that these models work well: gemma3:12b, qwen3-vl:4b-instruct-q8_0. They are fast, have a high level of intelligence and they can handle both text and images.
 - Whisper is an LLM, and it can hallucinate. It sometimes generates random text like "Thank you for watching!". This text then gets converted in to speech.
 - Not all parameters are supported by all models. I found that Qwen3 Ollama models would not work if a repeat_penalty parameter was passed to the model. To make the app more robust I've only used parameters that are likely to be supported by the vast majority of models - temperature, context size, top_p.
 - Small quantized local models are not yet trustworthy enough to be used for mission critical tasks. They are good for tasks that don't require precise answers like brainstorming and creative writing, or for tasks where a user can quickly check the accuracy of the output.
