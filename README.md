@@ -336,7 +336,7 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 - Whisper is an LLM, and it can hallucinate. It sometimes generates random text like "Thank you for watching!". This text then gets converted in to speech.
 - Not all parameters are supported by all models. I found that Qwen3 Ollama models would not work if a repeat_penalty parameter was passed to the model. To make the app more robust I've only used parameters that are likely to be supported by the vast majority of models - temperature, context size, top_p.
 - Small quantized local models are not yet trustworthy enough to be used for mission critical tasks. They are good for tasks that don't require precise answers like brainstorming and creative writing, or for tasks where a user can quickly check the accuracy of the output.
-- I found that the gemma3:12b 4 bit quantized model works well. It's fast, has a high level of intelligence and can handle both text and images. 
+- I found that the gemma3:12b 4 bit quantized model (8.1 GB) works well. It's fast, has a high level of intelligence and can handle both text and images. 
 - At first glance the single-file architecture may look like a naive simplification created for non-technical users and for easy auditing - but it's much more. It's an architecture pattern that's optimized for AI-assisted development - a "see the entire picture at once" pattern that supports fast and efficient Human + Ai collaboration.
 
 
