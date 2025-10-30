@@ -3,9 +3,9 @@
 > 
 > Prototype - For testing, education and inspiration
 
-myOfflineAi - A Local Text and Voice Chat Ai Console powered by Ollama, Whisper and Kokoro<br>
 YouTube Video:<br>
-https://www.youtube.com/watch?v=LOndd7MpdCs<br>
+myOfflineAi - A Local Text and Voice Chat Ai Console powered by Ollama, Whisper and Kokoro<br>
+https://www.youtube.com/watch?v=LOndd7MpdCs
 
 
 <br>
