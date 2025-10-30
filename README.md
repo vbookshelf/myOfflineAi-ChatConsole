@@ -6,8 +6,7 @@
 myOfflineAi - A Local Text and Voice Chat Ai Console powered by Ollama, Whisper and Kokoro<br>
 YouTube Video:<br>
 https://www.youtube.com/watch?v=LOndd7MpdCs<br>
-Kaggle Project Writeup:<br>
-https://www.kaggle.com/writeups/vbookshelf/myofflineai-chatconsole#3308282
+
 
 <br>
 
