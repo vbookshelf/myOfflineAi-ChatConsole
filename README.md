@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=LOndd7MpdCs
 
 The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs).
 
-This project is a case study in a new kind of development workflow — one where a single person, equipped with modest coding skills but good strategic vision, can architect, build, and maintain a complex application at high velocity by treating AI as a collaborator.
+This project is a case study in a new kind of development workflow — one where a single person, equipped with modest coding skills but good strategic vision, can build a complex application at high velocity by treating AI as a collaborator.
 
 The traditional rules of software development were created for a different era. In the age of AI, we need a new methodology that's optimized for Human + AI collaboration. 
 
