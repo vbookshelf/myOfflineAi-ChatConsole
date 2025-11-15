@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=LOndd7MpdCs
 
 <br>
 
-The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs). This is not just a simple chat interface - it's a customizable AI workspace.
+The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs).
 
 This project is a case study in a new kind of development workflow — one where a single person, equipped with modest coding skills but good strategic vision, can architect, build, and maintain a complex application at high velocity by treating AI as a collaborator.
 
@@ -338,7 +338,7 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 - Small quantized local models are not yet trustworthy enough to be used for mission critical tasks. They are good for tasks that don't require precise answers like brainstorming and creative writing, or for tasks where a user can quickly check the accuracy of the output.
 - I found that the gemma3:12b 4 bit quantized model (8.1 GB) works well. It's fast, has a high level of intelligence and can handle both text and images. 
 - At first glance the single-file architecture may look like a naive simplification created for non-technical users and for easy auditing - but it's much more. It's an architecture pattern that's optimized for AI-assisted development - a "see the entire picture at once" pattern that supports fast and efficient Human + Ai collaboration.
-- This app is built for the future of local AI. Today’s models are a preview. Tomorrow’s will be extraordinary. This system is ready for them.
+
 
 
 <br>
