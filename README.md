@@ -14,7 +14,7 @@ The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first mu
 
 This project is a case study in a new kind of development workflow — one where a single person, equipped with modest coding skills but good strategic vision, can build a complex application at high velocity by treating AI as a collaborator.
 
-The traditional rules of software development were created for a different era. In the age of AI, we need a new methodology that's optimized for Human + AI collaboration. 
+The traditional rules of software development were created for a different time. In the AI age, we need a new approach that's optimized for Human + AI collaboration. 
 
 This project uses a single-file architecture - HTML, CSS, JS and Python are all in one file. This allows Ai to see the entire context. Having this clear picture makes it easy for Ai to refactor the code. The Ai also automatically handles any ripple effects that a change may have on the rest of the code. This enables fast iteration. The result is a robust final product.
 
