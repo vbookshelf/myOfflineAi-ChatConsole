@@ -12,11 +12,17 @@ https://www.youtube.com/watch?v=LOndd7MpdCs
 
 The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first multimodal Ai console where you can talk, type, show images, adjust parameters and create Ai tools. Uses Flask for the backend, Whisper for Speech-to-Text (STT), Kokoro for Text-to-Speech (TTS), and Ollama for the Large Language Models (LLMs).
 
-This project is a case study in a new kind of development workflow — one where a single person, equipped with modest coding skills but good strategic vision, can build a complex application at high velocity by treating AI as a collaborator.
+<br>
 
-The traditional rules of software development were created for a different time. In the AI age, we need a new approach that's optimized for Human + AI collaboration. 
+## Who is this for?
 
-This project uses a single-file architecture - HTML, CSS, JS and Python are all in one file. This allows Ai to see the entire context. Having this clear picture makes it easy for Ai to refactor the code. The Ai also automatically handles any ripple effects that a change may have on the rest of the code. This enables fast iteration. The result is a robust final product.
+<br>
+
+- <strong>Neurodivergent Users (ADHD & Autism):</strong> A private space to clear your head and get things done. This tool can help you break down overwhelming "big" tasks into tiny, easy steps and give you a safe place to practice what to say in difficult social situations. It’s a quiet, distraction-free environment where no one sees what you type or hears what you say.
+- <strong>Students & Lifelong Learners:</strong> A private, 24/7 AI tutor that works completely offline. Get step-by-step homework help, explain complex concepts in everyday language, or analyze textbook pages. It's a powerful learning tool that promotes educational equity by removing the need for a constant internet connection.
+- <strong>Legal & Medical Professionals:</strong> Interrogate sensitive client contracts, domestic violence data, case files, or medical notes with the confidence that your confidential data stays local (HIPAA-friendly).
+- <strong>Researchers & Academics:</strong> Summarize and analyze research papers, pre-publication data, and literature without risking intellectual property leaks.
+- <strong>Ai Experimenters & Hobbyists:</strong> Granular controls for experimenting with multimodal text and voice AI - without API costs. The single-file code setup makes the app easy for Ai to customize - add new features in minutes.
 
 <br>
 
@@ -71,17 +77,6 @@ The innovation is not in creating new technologies but in combining and optimizi
 
 <br>
 
-## Who is this for?
-
-<br>
-
-- <strong>Neurodivergent Users (ADHD & Autism):</strong> A private space to clear your head and get things done. This tool can help you break down overwhelming "big" tasks into tiny, easy steps and give you a safe place to practice what to say in difficult social situations. It’s a quiet, distraction-free environment where no one sees what you type or hears what you say.
-- <strong>Students & Lifelong Learners:</strong> A private, 24/7 AI tutor that works completely offline. Get step-by-step homework help, explain complex concepts in everyday language, or analyze textbook pages. It's a powerful learning tool that promotes educational equity by removing the need for a constant internet connection.
-- <strong>Legal & Medical Professionals:</strong> Interrogate sensitive client contracts, domestic violence data, case files, or medical notes with the confidence that your confidential data stays local (HIPAA-friendly).
-- <strong>Researchers & Academics:</strong> Summarize and analyze research papers, pre-publication data, and literature without risking intellectual property leaks.
-- <strong>Ai Experimenters & Hobbyists:</strong> Granular controls for experimenting with multimodal text and voice AI - without API costs. The single-file code setup makes the app easy for Ai to customize - add new features in minutes.
-
-<br>
 
 ## How to Install and Run
 
