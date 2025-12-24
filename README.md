@@ -14,6 +14,12 @@ The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first mu
 
 <br>
 
+
+<img src="images/image1.png" alt="App screenshot" height="500">
+<p>Minimalist UI</p>
+
+<br>
+
 ## Who is this for?
 
 <br>
@@ -54,11 +60,6 @@ The innovation is not in creating new technologies but in combining and optimizi
 - <strong>Instant Audio with Sentence-by-Sentence TTS:</strong> Instead of waiting for the AI to generate its full response, text-to-speech audio begins playing sentence by sentence, creating a much more fluid and natural conversational experience.
 - <strong>Ephemeral Data Processing:</strong> User-uploaded images and PDFs are processed entirely in-memory and are never permanently saved to your disk.
 
-
-<br>
-
-<img src="images/image1.png" alt="App screenshot" height="500">
-<p>Minimalist UI</p>
 
 <br>
 
