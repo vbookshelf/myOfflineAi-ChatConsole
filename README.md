@@ -24,7 +24,7 @@ The myOfflineAi-ChatConsole is a transparent, offline-first and privacy-first mu
 
 <br>
 
-- <strong>Neurodivergent Users (ADHD & Autism):</strong> A private space to clear your head and get things done. This tool can help you break down overwhelming "big" tasks into tiny, easy steps and give you a safe place to practice what to say in difficult social situations. It’s a quiet, distraction-free environment where no one sees what you type or hears what you say.
+- <strong>Neurodivergent Users (ADHD & Autism):</strong> A private space to clear your head and get things done. This tool can help you break down overwhelming "big" tasks into tiny, easy steps and give you a safe place to practice what to say in difficult social situations. It’s a quiet, distraction-free environment where no one sees what you type or hears what you say. Stable and predictable - the interface never changes, unless you decide to change it yourself.
 - <strong>Students & Lifelong Learners:</strong> A private, 24/7 AI tutor that works completely offline. Get step-by-step homework help, explain complex concepts in everyday language, or analyze textbook pages. It's a powerful learning tool that promotes educational equity by removing the need for a constant internet connection.
 - <strong>Legal & Medical Professionals:</strong> Interrogate sensitive client contracts, domestic violence data, case files, or medical notes with the confidence that your confidential data stays local (HIPAA-friendly).
 - <strong>Researchers & Academics:</strong> Summarize and analyze research papers, pre-publication data, and literature without risking intellectual property leaks.
