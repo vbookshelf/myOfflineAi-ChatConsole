@@ -350,6 +350,11 @@ The agent profile pictures that you upload are stored in a folder named agent_av
 -  myOfflineAi-ChatConsole<br>(Desktop multimodal chat console that supports both text chat and voice chat.)<br>
   https://github.com/vbookshelf/myOfflineAi-ChatConsole
 
+<br>
+
+## Known Issues
+
+- There is a bug in the way images are stored in the message history. The model cannot see images submitted in past conversation turns. As a result, when asked questions about previously submitted imges, the model hallucinates.
 
 <br>
 
